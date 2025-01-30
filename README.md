@@ -1,0 +1,1 @@
+This repository contains an example of an unsafe Rust code that accesses a vector element using `get_unchecked`.  This can lead to undefined behavior if the index is out of bounds. A solution is provided demonstrating safer alternatives.
